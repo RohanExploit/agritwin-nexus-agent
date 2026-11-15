@@ -18,8 +18,17 @@
       "best_mandi": "Vashi APMC Navi Mumbai",
       "net_margin_inr_per_ton": 155262.0,
       "summary": "### AgriTwin Harvest & Cold-Chain Twin Brief (`Strawberry` \u00b7 `Satara (Strawberry / Tomato Belt)`)\n- **Microclimate & Irrigation**: Soil moisture `0.139 m\u00b3/m\u00b3`, ET\u2080 `5.03 mm/day` \u2192 *Irrigate 12\u201318mm to"
+    },
+    {
+      "timestamp_utc": "2026-11-15T16:54:36.488575+00:00",
+      "farm_hub": "Satara (Strawberry / Tomato Belt)",
+      "crop": "Strawberry",
+      "blight_risk": 12.0,
+      "best_mandi": "Vashi APMC Navi Mumbai",
+      "net_margin_inr_per_ton": 155262.0,
+      "summary": "* **Irrigation/Soil:** With low soil moisture (0.139; gap 0.161), 5.03 mm ET0, and 0% rain probability, irrigate 12\u201318 mm tonight via drip/sprinkler to curb evaporation under low heat stress (22.2\u00b0C s"
     }
   ],
-  "total_simulations": 2,
-  "last_run_utc": "2026-11-15T16:47:08.787531+00:00"
+  "total_simulations": 3,
+  "last_run_utc": "2026-11-15T16:54:36.488575+00:00"
 }
