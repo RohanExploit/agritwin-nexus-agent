@@ -1,0 +1,25 @@
+{
+  "agent_name": "AgriTwin Harvest & Cold-Chain Orchestrator",
+  "twin_history": [
+    {
+      "timestamp_utc": "2026-11-15T16:45:52.274065+00:00",
+      "farm_hub": "Satara (Strawberry / Tomato Belt)",
+      "crop": "Strawberry",
+      "blight_risk": 12.0,
+      "best_mandi": "Vashi APMC Navi Mumbai",
+      "net_margin_inr_per_ton": 155262.0,
+      "summary": "### AgriTwin Harvest & Cold-Chain Twin Brief (`Strawberry` \u00b7 `Satara (Strawberry / Tomato Belt)`)\n- **Microclimate & Irrigation**: Soil moisture `0.139 m\u00b3/m\u00b3`, ET\u2080 `5.03 mm/day` \u2192 *Irrigate 12\u201318mm to"
+    },
+    {
+      "timestamp_utc": "2026-11-15T16:47:08.787531+00:00",
+      "farm_hub": "Satara (Strawberry / Tomato Belt)",
+      "crop": "Strawberry",
+      "blight_risk": 12.0,
+      "best_mandi": "Vashi APMC Navi Mumbai",
+      "net_margin_inr_per_ton": 155262.0,
+      "summary": "### AgriTwin Harvest & Cold-Chain Twin Brief (`Strawberry` \u00b7 `Satara (Strawberry / Tomato Belt)`)\n- **Microclimate & Irrigation**: Soil moisture `0.139 m\u00b3/m\u00b3`, ET\u2080 `5.03 mm/day` \u2192 *Irrigate 12\u201318mm to"
+    }
+  ],
+  "total_simulations": 2,
+  "last_run_utc": "2026-11-15T16:47:08.787531+00:00"
+}
