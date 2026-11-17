@@ -45,8 +45,17 @@
       "best_mandi": "Vashi APMC Navi Mumbai",
       "net_margin_inr_per_ton": 155262.0,
       "summary": "Here is the AgriTwin operational summary:\n\n*   **Irrigation/Soil:** Soil moisture is critically low (0.146) against a high ET0 demand (5.37mm). Apply **12\u201318mm of irrigation tonight** to close the 0.1"
+    },
+    {
+      "timestamp_utc": "2026-11-17T09:33:08.842795+00:00",
+      "farm_hub": "Satara (Strawberry / Tomato Belt)",
+      "crop": "Strawberry",
+      "blight_risk": 12.0,
+      "best_mandi": "Vashi APMC Navi Mumbai",
+      "net_margin_inr_per_ton": 155262.0,
+      "summary": "Here is your AgriTwin operational summary:\n\n*   **Irrigation/Soil:** Soil moisture is critically low (0.133). Initiate immediate precision irrigation of 12\u201318mm tonight to bridge the 0.167 moisture ga"
     }
   ],
-  "total_simulations": 5,
-  "last_run_utc": "2026-11-16T08:19:09.127805+00:00"
+  "total_simulations": 6,
+  "last_run_utc": "2026-11-17T09:33:08.842795+00:00"
 }
